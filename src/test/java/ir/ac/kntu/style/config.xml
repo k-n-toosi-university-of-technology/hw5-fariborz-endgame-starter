@@ -70,10 +70,6 @@
 
         <module name="OneStatementPerLine"/>
         <module name="MissingSwitchDefault"/>
-	      <module name="DesignForExtension"/>
-        <module name="FinalClass"/>
-        <module name="InterfaceIsType"/>
-		
       	<module name="EqualsHashCode"/>
 		
         <module name="UnusedImports">
